@@ -1,0 +1,44 @@
+{
+  "name": "react-project-showcase",
+  "version": "1.0.0",
+  "description": "A React project showcase",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/material": "^6.4.3",
+    "axios": "^1.7.9",
+    "material": "^0.9.22",
+    "next": "^15.1.6",
+    "react": "^19.0.0",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.1",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "typescript": "^4.1.2"
+  },
+  "browserslist": {
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ],
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ]
+  }
+}
