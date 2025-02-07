@@ -39,3 +39,7 @@ build/
 # React Native
 .expo/
 .expo-shared/
+
+# Next.js
+.next/
+out/
