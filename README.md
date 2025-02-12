@@ -14,14 +14,18 @@ This project is a sample cutout from a personal project showcasing a React-based
 
 This project is a sample cutout from a personal project showcasing a React-based store management system. It demonstrates the use of various React features and libraries, including state management, API integration with Axios, and Material-UI for styling and components.
 
-**Note**: This example is missing some styling because the original project uses a proprietary template with very minimal changes on my end. The template is not included in this example.
+**Note**: This example is missing styling because the original project uses a proprietary template with very minimal changes on my end. The template is not included in this example.
 
-## Technologies Used
+## Technologies and Frameworks
 
 - **React**: A JavaScript library for building user interfaces.
 - **Material-UI**: A popular React UI framework for building responsive and accessible web applications.
 - **Axios**: A promise-based HTTP client for making API requests.
 - **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+- **React Router**: A library for routing in React applications.
+- **Formik**: A library for building forms in React.
+- **Yup**: A JavaScript schema builder for value parsing and validation.
+- **React Query**: A library for fetching, caching, and updating data in React applications.
 
 ## Setup, Installation and Usage
 
@@ -40,6 +44,7 @@ This project is a sample cutout from a personal project showcasing a React-based
     ```sh
     npm run dev
     ```
+
 4. Usage:
  - Navigate to the Store List Page to view the list of stores.
  - Use the Create Store Page to add a new store.
